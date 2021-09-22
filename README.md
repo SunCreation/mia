@@ -1,12 +1,12 @@
 > Who am I                         
 > =
 >    
-> Hi!
-> I'm not a big deal. 
-> just trying to do anything.
-> I wish to do anything. sooner or later  
+> Hi!   
+> I'm not a big deal.    
+> just trying to do anything.   
+> I wish to do anything. sooner or later.     
 > 
->   if you curious, click [<u>__*here*__</u>](https://blog.naver.com/gockd0103) : ~~Note that there is nothing to see. And it used **Korean**.~~
+>   if you curious, click [<u>__*here*__</u>](https://blog.naver.com/gockd0103) : ~~Note that there is nothing to see. And it used **Korean**.~~  
 > ***
 > And Mia is my lover's name.
 >
