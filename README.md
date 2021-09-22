@@ -18,6 +18,6 @@
 > 
 > _5. To make a virtual workspace using vscode._  - \`21.09.20.   
 > _6. To learn "nuppy" and "matplotlib", and practice it._  - \`21.09.21.   
-> _7. To watch CS231N Lec2 Image Classification._ If you want click [__here__](https://www.youtube.com/watch?v=OoUX-nOEjG0).  -  \`21.09.22.  
+> _7. To watch a Lecture: CS231N Lec2 Image Classification._ If you want click [__here__](https://www.youtube.com/watch?v=OoUX-nOEjG0).  -  \`21.09.22.  
 >    
 >     
