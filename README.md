@@ -1,4 +1,4 @@
-> Who am I                         
+> 🎨 Who am I                         
 > =
 >    
 > Hi! I'm not a big deal. just trying to do anything.   
@@ -8,7 +8,7 @@
 > ***
 > And Mia is my lover's name.
 >
-> #   *Reviewing Anything List*:
+> # 📋 *Reviewing Anything List*:
 > 
 >   
 > 1. _To make a Jupyter Notebook and practice using it._  - \`21.09.14.   
