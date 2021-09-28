@@ -22,7 +22,7 @@
 > 7. _To watch a Lecture: CS231N Lec2 Image Classification._ If you wanna see too, click [__here__](https://www.youtube.com/watch?v=OoUX-nOEjG0).  -  \`21.09.22.  
 > 8. _To study about ```preprocessing```. I think, I'll continue._  - \`21.09.25.  
 > 9. _To practise drawing any graph by using **pandas, numpy, matplotlib, seaborn**. If I can, with meaningful datas. and I have to listen to a lecture: CS231N Lec 3._  - \`21.09.26.
-> 10. _To search and practise how to control ```A neural network```._  - \`21.10.02.
->
->
+> 10. _To search and practise how to control ```A neural network```._  -  ~\`21.10.02.
+> 11. _To study for ```Computer Specialist in Spreadsheet & Database Level-1```._  -  ~\`21.10.05.
+> 12. _I gonna make my blog with Jekyll!_  - \`21.09.28 ~ 
 >          
