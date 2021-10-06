@@ -23,6 +23,6 @@
 > 8. _To study about ```preprocessing```. I think, I'll continue._  - \`21.09.25.  
 > 9. _To practise drawing any graph by using **pandas, numpy, matplotlib, seaborn**. If I can, with meaningful datas. and I have to listen to a lecture: CS231N Lec 3._  - \`21.09.26.
 > 10. _To search and practise how to control ```A neural network```._  -  ~\`21.10.02.
-> 11. _To study for ```Computer Specialist in Spreadsheet & Database Level-1```._  -  ~\`21.10.05.
+> 11. _To study for ```Computer Specialist in Spreadsheet & Database Level-1```._  -  ~\`21.11.09.
 > 12. _I gonna make my blog with Jekyll!_  - \`21.09.28 ~ 
->          
+> 13. _To practise Making Link_ [Who are you!](#🎨-who-am-i)
