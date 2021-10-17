@@ -25,4 +25,5 @@
 > 10. _To search and practise how to control ```A neural network```._  -  ~\`21.10.02.
 > 11. _To study for ```Computer Specialist in Spreadsheet & Database Level-1```._  -  ~\`21.11.09.
 > 12. _I gonna make my blog with Jekyll!_  - \`21.09.28 ~ 
-> 13. _To practise Making Link_ [Who are you!](#-who-am-i)
+> 13. _To practise Making Link_ [Who are you!](#🎨-who-am-i)
+> 14. _I wanna have my jekyll page, I'll!!_  - \`21.10.17 ~
