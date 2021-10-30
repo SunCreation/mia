@@ -27,4 +27,4 @@
 > 12. _I gonna make my blog with Jekyll!_  - \`21.09.28 ~ 
 > 13. _To practise Making Link_ [Who are you!](#-who-am-i)
 > 14. _I wanna have my jekyll page, I'll!!_  - \`21.10.17 ~     
-> 15. _Reading papers... First is ```Attention is all you need..!```_  - \`21.11.01 ~
+> 15. _Reading papers... First is ```Attention is all you need```..!_  - \`21.11.01 ~
